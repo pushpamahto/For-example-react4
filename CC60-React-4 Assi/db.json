@@ -1,0 +1,68 @@
+{
+  "tickets": [
+    {
+      "id": 2,
+      "title": "Dashboard Update - Charts",
+      "description": "Integrate new chart library in dashboard",
+      "assignment": "Vijay",
+      "status": "progress",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "title": "Settings Page - Dark Mode",
+      "description": "Implement dark mode in settings page",
+      "assignment": "Kajal",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "id": 5,
+      "title": "Login Form - Validation",
+      "description": "Add validation to login form",
+      "assignment": "Rohini",
+      "status": "progress",
+      "priority": 5
+    },
+    {
+      "id": 7,
+      "title": "Sidebar - Navigation Links",
+      "description": "Reorganize navigation links in sidebar",
+      "assignment": "Vijaya",
+      "status": "pending",
+      "priority": 8
+    },
+    {
+      "id": 9,
+      "title": "Search Bar - Autocomplete",
+      "description": "Implement autocomplete functionality in search bar",
+      "assignment": "Kajal",
+      "status": "completed",
+      "priority": 6
+    },
+    {
+      "id": 10,
+      "title": "Notification System - Push Notifications",
+      "description": "Set up push notifications for the system",
+      "assignment": "Rohini",
+      "status": "pending",
+      "priority": 9
+    },
+    {
+      "title": "create ticket",
+      "description": "Hello every one",
+      "assignee": "Lily",
+      "status": "completed",
+      "priority": 5,
+      "id": 11
+    },
+    {
+      "title": "Hello",
+      "description": "ghfgjfkdnf",
+      "assignee": "Lily",
+      "status": "completed",
+      "priority": 6,
+      "id": 12
+    }
+  ]
+}
